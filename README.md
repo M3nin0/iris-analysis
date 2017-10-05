@@ -18,4 +18,4 @@ Análise do dataset de Iris
 
 ## Demais informações
 
-![GitHub Logo](images/infog.PNG)
+![Informações](images/infog.PNG)
